@@ -185,12 +185,3 @@ print(session)  # CinemaSession: Avatar 2 (5 seats)
 ✅ **Band o'ringa bron qilib bo'lmaydi** - RuntimeError
 
 ✅ **available_seats to'g'ri ishlaydi** - faqat bo'sh joylar
-
----
-
-## 6. Nimani O'rganasiz
-
-- Nested class yaratish
-- List ichida obyektlar bilan ishlash
-- Seat → Ticket bog'lanishi (composition)
-- Obyekt holatini o'zgartirish (is_taken)
